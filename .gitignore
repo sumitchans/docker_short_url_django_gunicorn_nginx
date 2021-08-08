@@ -1,0 +1,4 @@
+*.pyc
+/urlshortener_service/.idea/
+.idea/
+.env
